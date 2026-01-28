@@ -1,7 +1,7 @@
 {
     "name": "smashchords",
     "version": "1.0.0",
-    "description": "Markov chain of music chords Progression",
+    "description": "Markov chain of music chords progression",
     "scripts": {
         "gui": "cd gui && npm start",
         "server": "cd server && flask run"
