@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Markov chain of music chords progression",
     "scripts": {
-        "gui": "cd gui && npm start",
+        "gui": "cd gui && npm run dev",
         "server": "cd server && flask run"
     },
     "keywords": [],
