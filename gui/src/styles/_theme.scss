@@ -1,0 +1,68 @@
+/* _theme.scss */
+
+/* Light mode */
+
+:root {
+  /* Primary */
+  --primary: 220 90% 56%;
+  --primary-foreground: 0 0% 100%;
+
+  /* Secondary */
+  --secondary: 280 70% 60%;
+  --secondary-foreground: 0 0% 100%;
+
+  /* Destructive */
+  --destructive: 0 80% 60%;
+  --destructive-foreground: 0 0% 100%;
+
+  /* Accent */
+  --accent: 340 80% 55%;
+  --accent-foreground: 0 0% 100%;
+
+  /* Background / Foreground */
+  --background: 0 0% 98%;
+  --foreground: 0 0% 10%;
+
+  /* Border / Input */
+  --border: 0 0% 80%;
+  --input: 0 0% 98%;
+  --muted: 0 0% 92%;
+
+  /* Typography */
+  --font-sans: "Inter", system-ui, sans-serif;
+  --font-heading: "Inter", system-ui, sans-serif;
+
+  /* Spacing */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 1rem;
+  --space-4: 2rem;
+
+  /* Border radius */
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+  --ring: 220 90% 56%;
+}
+
+/* Dark mode */
+.dark {
+  --primary: 220 90% 65%;
+  --primary-foreground: 0 0% 10%;
+
+  --secondary: 280 70% 70%;
+  --secondary-foreground: 0 0% 10%;
+
+  --destructive: 0 80% 70%;
+  --destructive-foreground: 0 0% 10%;
+
+  --accent: 340 80% 70%;
+  --accent-foreground: 0 0% 10%;
+
+  --background: 220 15% 15%;
+  --foreground: 0 0% 98%;
+
+  --border: 220 15% 35%;
+  --input: 220 15% 20%;
+  --muted: 220 15% 25%;
+}
