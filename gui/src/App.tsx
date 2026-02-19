@@ -1,4 +1,4 @@
-import { ThemePreview } from "./components/ThemePreview";
+import { ThemePreview } from "./components/utils/ThemePreview";
 
 function App() {
   return (

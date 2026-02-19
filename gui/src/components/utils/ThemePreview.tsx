@@ -1,4 +1,4 @@
-import { Button } from "./ui/button";
+import { Button } from "../ui/button";
 
 const themeColors = [
   { name: "Primary", variable: "bg-primary", text: "text-primary-foreground" },
