@@ -1,11 +1,7 @@
-import { ThemePreview } from "./components/utils/ThemePreview";
+import { AppLayout } from "@/components/layout/AppLayout";
 
 function App() {
-  return (
-    <>
-      <ThemePreview />
-    </>
-  );
+  return <AppLayout />;
 }
 
 export default App;
