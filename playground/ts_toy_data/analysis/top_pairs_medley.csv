@@ -1,16 +1,16 @@
 from_snippet,from_song,from_section,from_key,from_prog,to_snippet,to_song,to_section,to_key,to_prog,score
-TS_015,bad blood (taylor's version),Pre-Chorus,C,"['I', 'V', 'II', 'iii']",TS_010,midnight rain,Bridge,F,"['I', 'V', 'II', 'iii']",1.0416666666666667
-TS_016,bad blood (taylor's version),Bridge,C,"['I', 'V', 'II', 'iii']",TS_010,midnight rain,Bridge,F,"['I', 'V', 'II', 'iii']",1.0416666666666667
-TS_010,midnight rain,Bridge,F,"['I', 'V', 'II', 'iii']",TS_015,bad blood (taylor's version),Pre-Chorus,C,"['I', 'V', 'II', 'iii']",1.0416666666666667
 TS_010,midnight rain,Bridge,F,"['I', 'V', 'II', 'iii']",TS_014,bad blood (taylor's version),Verse,C,"['I', 'V', 'II', 'iii']",1.0416666666666667
-TS_010,midnight rain,Bridge,F,"['I', 'V', 'II', 'iii']",TS_016,bad blood (taylor's version),Bridge,C,"['I', 'V', 'II', 'iii']",1.0416666666666667
 TS_014,bad blood (taylor's version),Verse,C,"['I', 'V', 'II', 'iii']",TS_010,midnight rain,Bridge,F,"['I', 'V', 'II', 'iii']",1.0416666666666667
+TS_016,bad blood (taylor's version),Bridge,C,"['I', 'V', 'II', 'iii']",TS_010,midnight rain,Bridge,F,"['I', 'V', 'II', 'iii']",1.0416666666666667
+TS_010,midnight rain,Bridge,F,"['I', 'V', 'II', 'iii']",TS_016,bad blood (taylor's version),Bridge,C,"['I', 'V', 'II', 'iii']",1.0416666666666667
+TS_015,bad blood (taylor's version),Pre-Chorus,C,"['I', 'V', 'II', 'iii']",TS_010,midnight rain,Bridge,F,"['I', 'V', 'II', 'iii']",1.0416666666666667
+TS_010,midnight rain,Bridge,F,"['I', 'V', 'II', 'iii']",TS_015,bad blood (taylor's version),Pre-Chorus,C,"['I', 'V', 'II', 'iii']",1.0416666666666667
 TS_003,seven,Bridge,A,"['i', 'III', 'VII']",TS_031,mad woman,Intro,F,"['i', 'III', 'VII']",1.0166666666666666
 TS_031,mad woman,Intro,F,"['i', 'III', 'VII']",TS_003,seven,Bridge,A,"['i', 'III', 'VII']",1.0166666666666666
-TS_028,tim mcgraw,Chorus,C,"['I', 'vi', 'IV', 'V', 'V', 'V']",TS_046,stay beautiful,Chorus,G#,"['I', 'vi', 'IV', 'V', 'V', 'V', 'V']",0.5166666666666667
 TS_046,stay beautiful,Chorus,G#,"['I', 'vi', 'IV', 'V', 'V', 'V', 'V']",TS_028,tim mcgraw,Chorus,C,"['I', 'vi', 'IV', 'V', 'V', 'V']",0.5166666666666667
-TS_046,stay beautiful,Chorus,G#,"['I', 'vi', 'IV', 'V', 'V', 'V', 'V']",TS_027,tim mcgraw,Verse,C,"['I', 'vi', 'IV', 'V', 'V']",0.5
+TS_028,tim mcgraw,Chorus,C,"['I', 'vi', 'IV', 'V', 'V', 'V']",TS_046,stay beautiful,Chorus,G#,"['I', 'vi', 'IV', 'V', 'V', 'V', 'V']",0.5166666666666667
 TS_027,tim mcgraw,Verse,C,"['I', 'vi', 'IV', 'V', 'V']",TS_046,stay beautiful,Chorus,G#,"['I', 'vi', 'IV', 'V', 'V', 'V', 'V']",0.5
+TS_046,stay beautiful,Chorus,G#,"['I', 'vi', 'IV', 'V', 'V', 'V', 'V']",TS_027,tim mcgraw,Verse,C,"['I', 'vi', 'IV', 'V', 'V']",0.5
 TS_030,tim mcgraw,Outro,C,"['I', 'vi', 'IV', 'V', 'V', 'I']",TS_050,high infidelity,Chorus,A#,"['I', 'vi', 'IV', 'V', 'I']",0.44333333333333336
 TS_050,high infidelity,Chorus,A#,"['I', 'vi', 'IV', 'V', 'I']",TS_030,tim mcgraw,Outro,C,"['I', 'vi', 'IV', 'V', 'V', 'I']",0.44333333333333336
 TS_030,tim mcgraw,Outro,C,"['I', 'vi', 'IV', 'V', 'V', 'I']",TS_046,stay beautiful,Chorus,G#,"['I', 'vi', 'IV', 'V', 'V', 'V', 'V']",0.4266666666666667
@@ -21,31 +21,31 @@ TS_036,mad woman,Outro,A#,"['I', 'VI', 'v', 'ii', 'VI', 'IV', 'I']",TS_020,flori
 TS_020,florida!!! (featuring florence + the machine),Bridge,G,"['I', 'VI', 'IV', 'I', 'ii', 'VI', 'IV']",TS_036,mad woman,Outro,A#,"['I', 'VI', 'v', 'ii', 'VI', 'IV', 'I']",0.3821428571428571
 TS_004,seven,Outro,A,"['i', 'III', 'VII', 'III']",TS_031,mad woman,Intro,F,"['i', 'III', 'VII']",0.36666666666666664
 TS_031,mad woman,Intro,F,"['i', 'III', 'VII']",TS_004,seven,Outro,A,"['i', 'III', 'VII', 'III']",0.36666666666666664
-TS_050,high infidelity,Chorus,A#,"['I', 'vi', 'IV', 'V', 'I']",TS_028,tim mcgraw,Chorus,C,"['I', 'vi', 'IV', 'V', 'V', 'V']",0.35333333333333333
 TS_028,tim mcgraw,Chorus,C,"['I', 'vi', 'IV', 'V', 'V', 'V']",TS_050,high infidelity,Chorus,A#,"['I', 'vi', 'IV', 'V', 'I']",0.35333333333333333
-TS_029,tim mcgraw,Bridge,F,"['I', 'II', 'II', 'II']",TS_048,stay beautiful,Outro,C#,"['I', 'II', 'II', 'II', 'II', 'V']",0.35
+TS_050,high infidelity,Chorus,A#,"['I', 'vi', 'IV', 'V', 'I']",TS_028,tim mcgraw,Chorus,C,"['I', 'vi', 'IV', 'V', 'V', 'V']",0.35333333333333333
 TS_048,stay beautiful,Outro,C#,"['I', 'II', 'II', 'II', 'II', 'V']",TS_029,tim mcgraw,Bridge,F,"['I', 'II', 'II', 'II']",0.35
-TS_016,bad blood (taylor's version),Bridge,C,"['I', 'V', 'II', 'iii']",TS_008,midnight rain,Verse,F,"['I', 'V', 'V', 'II', 'iii', 'I']",0.34500000000000003
-TS_008,midnight rain,Verse,F,"['I', 'V', 'V', 'II', 'iii', 'I']",TS_016,bad blood (taylor's version),Bridge,C,"['I', 'V', 'II', 'iii']",0.34500000000000003
-TS_015,bad blood (taylor's version),Pre-Chorus,C,"['I', 'V', 'II', 'iii']",TS_008,midnight rain,Verse,F,"['I', 'V', 'V', 'II', 'iii', 'I']",0.34500000000000003
-TS_014,bad blood (taylor's version),Verse,C,"['I', 'V', 'II', 'iii']",TS_008,midnight rain,Verse,F,"['I', 'V', 'V', 'II', 'iii', 'I']",0.34500000000000003
+TS_029,tim mcgraw,Bridge,F,"['I', 'II', 'II', 'II']",TS_048,stay beautiful,Outro,C#,"['I', 'II', 'II', 'II', 'II', 'V']",0.35
 TS_008,midnight rain,Verse,F,"['I', 'V', 'V', 'II', 'iii', 'I']",TS_015,bad blood (taylor's version),Pre-Chorus,C,"['I', 'V', 'II', 'iii']",0.34500000000000003
+TS_008,midnight rain,Verse,F,"['I', 'V', 'V', 'II', 'iii', 'I']",TS_016,bad blood (taylor's version),Bridge,C,"['I', 'V', 'II', 'iii']",0.34500000000000003
+TS_014,bad blood (taylor's version),Verse,C,"['I', 'V', 'II', 'iii']",TS_008,midnight rain,Verse,F,"['I', 'V', 'V', 'II', 'iii', 'I']",0.34500000000000003
 TS_008,midnight rain,Verse,F,"['I', 'V', 'V', 'II', 'iii', 'I']",TS_014,bad blood (taylor's version),Verse,C,"['I', 'V', 'II', 'iii']",0.34500000000000003
-TS_049,high infidelity,Verse,A#,"['I', 'vi', 'IV', 'I', 'V']",TS_009,midnight rain,Pre-Chorus,C,"['I', 'V', 'vi', 'IV', 'I', 'V', 'vi']",0.33666666666666667
-TS_050,high infidelity,Chorus,A#,"['I', 'vi', 'IV', 'V', 'I']",TS_046,stay beautiful,Chorus,G#,"['I', 'vi', 'IV', 'V', 'V', 'V', 'V']",0.33666666666666667
+TS_016,bad blood (taylor's version),Bridge,C,"['I', 'V', 'II', 'iii']",TS_008,midnight rain,Verse,F,"['I', 'V', 'V', 'II', 'iii', 'I']",0.34500000000000003
+TS_015,bad blood (taylor's version),Pre-Chorus,C,"['I', 'V', 'II', 'iii']",TS_008,midnight rain,Verse,F,"['I', 'V', 'V', 'II', 'iii', 'I']",0.34500000000000003
 TS_009,midnight rain,Pre-Chorus,C,"['I', 'V', 'vi', 'IV', 'I', 'V', 'vi']",TS_049,high infidelity,Verse,A#,"['I', 'vi', 'IV', 'I', 'V']",0.33666666666666667
+TS_049,high infidelity,Verse,A#,"['I', 'vi', 'IV', 'I', 'V']",TS_009,midnight rain,Pre-Chorus,C,"['I', 'V', 'vi', 'IV', 'I', 'V', 'vi']",0.33666666666666667
 TS_046,stay beautiful,Chorus,G#,"['I', 'vi', 'IV', 'V', 'V', 'V', 'V']",TS_050,high infidelity,Chorus,A#,"['I', 'vi', 'IV', 'V', 'I']",0.33666666666666667
-TS_017,florida!!! (featuring florence + the machine),Verse,F,"['I', 'iii', 'II']",TS_041,fifteen (taylor's version),Bridge,C,"['I', 'iii', 'II', 'V', 'II']",0.30000000000000004
-TS_018,florida!!! (featuring florence + the machine),Pre-Chorus,F,"['I', 'iii', 'II']",TS_041,fifteen (taylor's version),Bridge,C,"['I', 'iii', 'II', 'V', 'II']",0.30000000000000004
-TS_010,midnight rain,Bridge,F,"['I', 'V', 'II', 'iii']",TS_033,mad woman,Pre-Chorus,G#,"['I', 'V', 'II', 'I', 'V']",0.30000000000000004
+TS_050,high infidelity,Chorus,A#,"['I', 'vi', 'IV', 'V', 'I']",TS_046,stay beautiful,Chorus,G#,"['I', 'vi', 'IV', 'V', 'V', 'V', 'V']",0.33666666666666667
 TS_033,mad woman,Pre-Chorus,G#,"['I', 'V', 'II', 'I', 'V']",TS_010,midnight rain,Bridge,F,"['I', 'V', 'II', 'iii']",0.30000000000000004
-TS_041,fifteen (taylor's version),Bridge,C,"['I', 'iii', 'II', 'V', 'II']",TS_017,florida!!! (featuring florence + the machine),Verse,F,"['I', 'iii', 'II']",0.30000000000000004
+TS_010,midnight rain,Bridge,F,"['I', 'V', 'II', 'iii']",TS_033,mad woman,Pre-Chorus,G#,"['I', 'V', 'II', 'I', 'V']",0.30000000000000004
 TS_041,fifteen (taylor's version),Bridge,C,"['I', 'iii', 'II', 'V', 'II']",TS_018,florida!!! (featuring florence + the machine),Pre-Chorus,F,"['I', 'iii', 'II']",0.30000000000000004
+TS_041,fifteen (taylor's version),Bridge,C,"['I', 'iii', 'II', 'V', 'II']",TS_017,florida!!! (featuring florence + the machine),Verse,F,"['I', 'iii', 'II']",0.30000000000000004
+TS_018,florida!!! (featuring florence + the machine),Pre-Chorus,F,"['I', 'iii', 'II']",TS_041,fifteen (taylor's version),Bridge,C,"['I', 'iii', 'II', 'V', 'II']",0.30000000000000004
+TS_017,florida!!! (featuring florence + the machine),Verse,F,"['I', 'iii', 'II']",TS_041,fifteen (taylor's version),Bridge,C,"['I', 'iii', 'II', 'V', 'II']",0.30000000000000004
+TS_033,mad woman,Pre-Chorus,G#,"['I', 'V', 'II', 'I', 'V']",TS_015,bad blood (taylor's version),Pre-Chorus,C,"['I', 'V', 'II', 'iii']",0.2916666666666667
+TS_016,bad blood (taylor's version),Bridge,C,"['I', 'V', 'II', 'iii']",TS_033,mad woman,Pre-Chorus,G#,"['I', 'V', 'II', 'I', 'V']",0.2916666666666667
 TS_015,bad blood (taylor's version),Pre-Chorus,C,"['I', 'V', 'II', 'iii']",TS_033,mad woman,Pre-Chorus,G#,"['I', 'V', 'II', 'I', 'V']",0.2916666666666667
 TS_033,mad woman,Pre-Chorus,G#,"['I', 'V', 'II', 'I', 'V']",TS_016,bad blood (taylor's version),Bridge,C,"['I', 'V', 'II', 'iii']",0.2916666666666667
+TS_014,bad blood (taylor's version),Verse,C,"['I', 'V', 'II', 'iii']",TS_033,mad woman,Pre-Chorus,G#,"['I', 'V', 'II', 'I', 'V']",0.2916666666666667
 TS_033,mad woman,Pre-Chorus,G#,"['I', 'V', 'II', 'I', 'V']",TS_014,bad blood (taylor's version),Verse,C,"['I', 'V', 'II', 'iii']",0.2916666666666667
 TS_028,tim mcgraw,Chorus,C,"['I', 'vi', 'IV', 'V', 'V', 'V']",TS_043,stay beautiful,Intro,G#,"['I', 'IV', 'V', 'vi', 'IV', 'V', 'V']",0.2916666666666667
-TS_016,bad blood (taylor's version),Bridge,C,"['I', 'V', 'II', 'iii']",TS_033,mad woman,Pre-Chorus,G#,"['I', 'V', 'II', 'I', 'V']",0.2916666666666667
-TS_014,bad blood (taylor's version),Verse,C,"['I', 'V', 'II', 'iii']",TS_033,mad woman,Pre-Chorus,G#,"['I', 'V', 'II', 'I', 'V']",0.2916666666666667
-TS_033,mad woman,Pre-Chorus,G#,"['I', 'V', 'II', 'I', 'V']",TS_015,bad blood (taylor's version),Pre-Chorus,C,"['I', 'V', 'II', 'iii']",0.2916666666666667
 TS_043,stay beautiful,Intro,G#,"['I', 'IV', 'V', 'vi', 'IV', 'V', 'V']",TS_028,tim mcgraw,Chorus,C,"['I', 'vi', 'IV', 'V', 'V', 'V']",0.2916666666666667
